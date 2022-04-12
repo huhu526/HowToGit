@@ -1,2 +1,2 @@
 # HowToGit
- 怎样去使用git
+怎样去使用git
