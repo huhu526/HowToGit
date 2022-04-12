@@ -1,0 +1,8 @@
+*分支的创建：git checkout -b <newBranch>
+**分支的查看：git branch -a
+**#本地分支查看：git branch
+**##远程分支查看：git branch -r
+***分支的切换：git checkout <branchName>
+****分支的合并：git merge
+*****#本地分支的删除：git branch -d <branchName>
+*****##远程分支的删除：git push origin -d(--delete) <branchName>
