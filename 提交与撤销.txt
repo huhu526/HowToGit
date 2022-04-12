@@ -1,0 +1,6 @@
+*将工作区的修改文件提交到暂存区：git add -A(filename)
+**将暂存区的文件提交到本地仓库：git commit -m "description"
+***查看工作区和暂存区发生的改变(红色工作区，绿色暂存区)：git status
+****将工作区进行的修改进行撤销：git restore .(filename)
+*****将添加到暂存区内容进行撤销：git restore --staged .(filename)
+******将已经提交的文件撤销回工作区：git reset HEAD^1 filename

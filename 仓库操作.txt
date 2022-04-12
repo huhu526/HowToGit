@@ -1,0 +1,8 @@
+*在文件夹中右键GitBashHere,初始化本地仓库：git init
+**将远程仓库与本地仓库建立连接：git remote add origin url
+***将本地仓库内容推送到远程：git push -u origin main(master)
+****将远程仓库克隆下来：git clone url
+*****仓库的删除：
+*****#本地仓库删除：删除.git隐藏文件
+*****##远程仓库删除：在网页setting最下面删除
+

@@ -1,0 +1,2 @@
+*拉取操作：git pull
+**推送操作：git push
